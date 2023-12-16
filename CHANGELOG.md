@@ -1,3 +1,9 @@
+## [0.2.2]
+
+* Fix compile errors
+* Upgrade deps
+
+
 ## [0.2.1]
 
 * `Exporter` class exposes now `frames`.
